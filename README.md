@@ -84,4 +84,4 @@ Vivado 2022.2, ZCU102 (`xczu9eg-ffvb1156-2-e`).
 | Synthesis | Vivado Synthesis Defaults | Vivado Synthesis Defaults |
 | Implementation | Vivado Implementation Defaults | `Performance_ExplorePostRoutePhysOpt` |
 
-Import `.v` files as design sources and `.sv` files as simulation sources. Read utilization and timing after implementation.
+Import `.v` files as design sources and `.sv` files as simulation sources. Read utilization and timing after implementation. The target clock period is 1.4 ns, achieving a maximum operating frequency of 714.3 MHz.
